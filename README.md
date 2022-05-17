@@ -9,7 +9,7 @@ go mod tidy
 cd cmd
 ```
 
-## docs
+## see docs
 
 [CLI](docs/cmd.md)
 
